@@ -1,4 +1,3 @@
-
-2 và đây là nhánh Minh local
-2 và đây là nhánh Minh remote
+2 và đây là nhánh main local
+2 và đây là nhánh main remote
 
